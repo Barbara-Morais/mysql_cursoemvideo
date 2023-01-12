@@ -1,5 +1,3 @@
-Transações precisam de: ACID - Atomicidade, Consistência, Durabilidade e Isolamento;
-
 use cadastro;
 
 describe gafanhotos;
